@@ -13,3 +13,5 @@ This is all enjoy your reading!
 ![Image of open program](https://pouekdev.github.io/imagedatabase/butterfly_bookreader.png)
 # Supported types of files
 I'm not quite sure what type of files it can open but as long as file don't include any image it should not crash :)
+# Found unsupported types of files
+.docx
