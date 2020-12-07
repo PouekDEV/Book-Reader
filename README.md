@@ -9,6 +9,7 @@ Type the file name that you want to open
 > also you must type file enlargement!
 
 When you typed the name of the file hit `Enter` 
+You can scroll text by clicking `W` or `S`
 This is all enjoy your reading!
 ![Image of open program](https://pouekdev.github.io/imagedatabase/butterfly_bookreader.png)
 # Supported types of files
