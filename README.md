@@ -1,4 +1,4 @@
-# Book-Reader v0.3
+# Book-Reader v0.5
 A free program to read files that include text
 # How to use
 Download files and run main.py
