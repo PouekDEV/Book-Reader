@@ -11,7 +11,8 @@ title = "Book Reader"
 text = "Put here a file with text or click enter"
 thing = ""
 textp = 2
-name = input("Give the name of the book (you MUST type it's end like test.pdf) ")
+name = input("Drag and drop the file you want to read ")
+name = str(name).replace('"','')
 with open(str(name),'r') as f:
     thing = f.read()
     etc = str(name)
